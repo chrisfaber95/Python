@@ -9,7 +9,7 @@ from decimal import Decimal
 import os
 
 
-URL = 'https://api.coop1.nl/INTERSHOP/rest/WFS/COOP-COOPBase-Site/-;loc=nl_NL;cur=EUR/products/'
+URL = ''
 
 CONFIG ={
     'user': os.environ.get('DB_USER'),
